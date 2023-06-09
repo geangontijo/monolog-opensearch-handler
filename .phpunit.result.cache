@@ -1,1 +1,0 @@
-{"version":1,"defects":{"OpenSearchHandlerTest::testConnectionErrors":1,"OpenSearchHandlerTest::testLogWithCustomFormatter":5,"OpenSearchHandlerTest::testLogWithOsFormatter":7},"times":{"OpenSearchHandlerTest::testConnectionErrors":37.973,"OpenSearchHandlerTest::testLogWithCustomFormatter":36.502,"OpenSearchHandlerTest::testLogWithOsFormatter":1.128}}
