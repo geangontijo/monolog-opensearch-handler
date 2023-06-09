@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/ezimuel/ringphp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/monolog/monolog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/myclabs/deep-copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/nikic/php-parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/opensearch-project/opensearch-php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phar-io/manifest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phar-io/version" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-invoker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-text-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-timer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/phpunit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/react/promise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/cli-parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/code-unit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/comparator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/complexity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/diff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/environment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/exporter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/global-state" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/lines-of-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/object-enumerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/object-reflector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/recursion-context" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/type" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/version" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/theseer/tokenizer" vcs="Git" />
+  </component>
+</project>
