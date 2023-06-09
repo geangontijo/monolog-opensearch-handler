@@ -13,5 +13,8 @@
     "psr-4": {
       "GeanGontijo\\MonologOpenSearchHandler\\": "src/"
     }
+  },
+  "scripts": {
+    "test": "phpunit tests --testdox --colors"
   }
 }
